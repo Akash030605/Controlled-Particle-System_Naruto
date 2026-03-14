@@ -127,4 +127,9 @@ This project explores the intersection of:
 - **Interactive Graphics**
 - **Real-Time WebGL Visualization**
 
+---
+
+## License
+
+MIT License
 
