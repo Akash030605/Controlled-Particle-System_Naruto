@@ -87,7 +87,7 @@ I also used **Google Gemini** during development to explore particle system idea
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/gesture-particle-system.git
+git clone https://github.com/Akash030605/Controlled-Particle-System_Naruto.git
 ```
 
 Open the project folder and run it with a local server.
